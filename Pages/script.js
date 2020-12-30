@@ -95,7 +95,7 @@ dataDiri.greet(); //kalo mau panggil function
 // }
 // const pendaftar = new Pendaftar("Leo", 3); 
 // console.log(pendaftar.name);
-// pendaftar.info();
+// pendaftar.info();.
 
 //using methods within methods 
 class Pendaftar{
